@@ -1,0 +1,25 @@
+{
+  "name": "ddd-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.spec.js",
+  "dependencies": {
+    "jest": "^28.1.0"
+  },
+  
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stasialej/ddd-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stasialej/ddd-sample/issues"
+  },
+  "homepage": "https://github.com/stasialej/ddd-sample#readme"
+
+}
